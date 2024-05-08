@@ -1,0 +1,1 @@
+document.write(window.prompt("შეიყვანეთ თქვენი სახელი და ასაკი"))
